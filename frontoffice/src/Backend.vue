@@ -1,7 +1,7 @@
 <script>
 
   import axios from 'axios'
-  const base = 'http://159.203.77.35:8080/api'
+  const base = 'http://localhost:8000/api'
   /*
   const adminUser = 'admin'
   const adminPass = '238k74i1Ct'
@@ -16,8 +16,8 @@
   })
 
   Backend.token = null
-  Backend.username = ''
-  Backend.password = ''
+  Backend.username = 'CollectiveUser'
+  Backend.password = 'CollectivePassword'
 
   Backend.UserData = function () {
     return this.get(`${base}${'/users/'}`)

@@ -1,8 +1,8 @@
-# Civic CrowdAnalytics
+# Collective Analytics
 
-Data analytics tool that applies Natural Language Processing (NLP) and Machine Learning (ML), such as concept extraction, idea classification, and sentiment analysis to make sense of crowdsourced civic input. This tool automatically organizes contributions into executive summaries and compelling visualizations, which are easy to comprehend, searchable, and interrelated. Civic CrowdAnalytics (CCA) is based on the scientific publication [**Civic CrowdAnalytics: Making sense of crowdsourced civic input with big data tools**](http://dl.acm.org/citation.cfm?id=2994366).
+Data analytics tool that applies Natural Language Processing (NLP) and Machine Learning (ML), such as concept extraction, idea classification, and sentiment analysis to make sense of crowdsourced civic input. This tool automatically organizes contributions into executive summaries and compelling visualizations, which are easy to comprehend, searchable, and interrelated. 
 
-Civic CrowdAnalytics features a simple user-interface for submitting an unstructured dataset for analysis. The user can choose, for example, to organize ideas by pre-defined categories, visualize the frequency of recurring concepts, and sort the sentiments of related comments. The tool displays the results in both tabular summaries and interactive visualizations, which users can search and manipulate. Users can also choose to export the results in various formats, such as CSV, PNG, JPEG, SVG, or PDF.
+Collective Analytics features a simple user-interface for submitting an unstructured dataset for analysis. The user can choose, for example, to organize ideas by pre-defined categories, visualize the frequency of recurring concepts, and sort the sentiments of related comments. The tool displays the results in both tabular summaries and interactive visualizations, which users can search and manipulate. Users can also choose to export the results in various formats, such as CSV, PNG, JPEG, SVG, or PDF.
 
 ## Screenshots
 
@@ -15,6 +15,8 @@ Civic CrowdAnalytics features a simple user-interface for submitting an unstruct
 ## Motivation
 
 Civic technologies are currently bottlenecked by a common need for more effective processing of citizen contributions. Civic CrowdAnalytics provides a solution. By using innovative NLP and ML techniques, the tool automates the analysis and synthesis of key aspects of crowdsourced civic input. This automation will dramatically accelerate and improve the standard data management features that Civic Backoffice will also provide.
+
+Collective Analytics (CA) is based on the prior scientific publication and repository [**Civic CrowdAnalytics: Making sense of crowdsourced civic input with big data tools**](http://dl.acm.org/citation.cfm?id=2994366).
 
 ## Features
 
