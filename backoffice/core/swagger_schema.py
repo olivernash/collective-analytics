@@ -1,4 +1,4 @@
-from django.utils.six.moves.urllib import parse as urlparse
+from six.moves.urllib import parse as urlparse
 from rest_framework.permissions import AllowAny
 from rest_framework.renderers import CoreJSONRenderer
 from rest_framework.response import Response

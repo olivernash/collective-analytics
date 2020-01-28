@@ -53,7 +53,7 @@ class Attribute(models.Model):
     name = models.CharField(max_length=50)
     included_in_analysis = models.BooleanField()
     dataset = models.ForeignKey(Dataset, related_name='attributes', on_delete=models.CASCADE)
-    attribute_type = models.ForeignKey(AttributeType)
+    attribute_type = models.ForeignKey(AttributeType, on_delete=models.CASCADE)
 
 
 class AnalysisType(models.Model):
